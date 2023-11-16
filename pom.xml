@@ -8,12 +8,7 @@
   <name>01-shivam-app Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
-  <dependency>
-      <groupId>Hibernate</groupId>
-      <artifactId>Hibernate</artifactId>
-      <version>3.8.1</version>
-      <scope>test</scope>
-    </dependency>
+  
 	<dependency>
       <groupId>Spring</groupId>
       <artifactId>Spring</artifactId>
